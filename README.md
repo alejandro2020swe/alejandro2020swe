@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://github.com/alejandro2020swe/alejandro2020swe/blob/main/8.png)
+![Alejandro](https://github.com/alejandro2020swe/alejandro2020swe/blob/main/8.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Alejandro De los Santos </h2>
 
@@ -27,7 +27,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
