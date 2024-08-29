@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://drive.google.com/file/d/1IlG4braZ1T6UcRvtYKh6w_6ab2CyNFQK/view?usp=drive_link)
+![Aditya Vikram Singh Banner](https://github.com/alejandro2020swe/alejandro2020swe/blob/main/8.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Alejandro De los Santos </h2>
 
