@@ -1,6 +1,6 @@
 ![Aditya Vikram Singh Banner](https://drive.google.com/file/d/1IlG4braZ1T6UcRvtYKh6w_6ab2CyNFQK/view?usp=drive_link)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Alejandro De los Santos </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
